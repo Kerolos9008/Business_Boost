@@ -1,7 +1,6 @@
 import 'package:business_booster/viewModels/main.viewModel.dart';
 import 'package:business_booster/widgets/progress_card.dart';
 import 'package:flutter/material.dart';
-import 'package:percent_indicator/linear_percent_indicator.dart';
 import 'package:pmvvm/pmvvm.dart';
 
 class SummaryPage extends StatelessWidget {
